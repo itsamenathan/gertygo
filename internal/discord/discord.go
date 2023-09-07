@@ -3,7 +3,7 @@ package discord
 import (
 	"fmt"
 	"log"
-	"main/lib/finnhub"
+	"main/internal/finnhub"
 	"strings"
 
 	"github.com/bwmarrin/discordgo"

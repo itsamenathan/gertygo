@@ -7,8 +7,8 @@ import (
 	"os/signal"
 	"syscall"
 
-	"main/lib/discord"
-	"main/lib/finnhub"
+	"main/internal/discord"
+	"main/internal/finnhub"
 
 	"github.com/joho/godotenv"
 )
